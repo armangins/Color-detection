@@ -1,6 +1,7 @@
-# Color-detection
+# Color-detection![color detection](https://user-images.githubusercontent.com/79071391/140180790-5cf3c8e3-2798-4a6c-92dc-30b7cf74d75d.PNG)
+
 PHP image top color detector
 detects any images top dominant colors and displays with precents
 
-![color detection](https://user-images.githubusercontent.com/79071391/139127839-553506dd-4e6c-4032-a90c-9666c1c42194.PNG)
+
 
