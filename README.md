@@ -1,7 +1,9 @@
+Color Detector
 ![](images/color%20detection.PNG)
 
-PHP image top color detector
-detects any images top dominant colors and displays with precents
+
+detects any images top 5 dominant colors and displays it with precents
+this project was made with PHP 
 
 
 
